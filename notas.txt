@@ -1,0 +1,10 @@
+<!--comando mas basico de git. git status
+        git add = pasa al staging area. - primer paso antes de agregar
+        git commit  -m  - agregar
+        git status - estado
+        git log
+        git checkout -volver a versiones anteriores
+        git reset nos sirve para unir commit
+        git reset --hard
+        rm eliminar
+        -->
