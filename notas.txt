@@ -43,7 +43,18 @@ crear rama :
 
 
 
+como crear ramas en local 
 
+git checkout -b feature-adds
+
+ahora creamos otra rama dentro de esta
+$ git checkout -b feature-load-adds-api
+
+para mezclar estas dos tenemos que hacer lo siguiente.
+
+git checkout feature-adds
+
+git merge feature-load-adds-api
 
 
 
