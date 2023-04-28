@@ -31,17 +31,17 @@ h1{
 
 }
 
-.post{
+.posts{
     background-color: #282c34;
     margin-bottom: 15px;
     padding: 5px 20px 5px 20px;
     border-radius: 12px;
 }
 
-.post h4{
+.posts h4{
     color: #98c379;
 }
 
-.post span{
+.posts span{
     color: #61afef;
 }
