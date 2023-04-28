@@ -8,3 +8,29 @@
         git reset --hard
         rm eliminar
         -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ejemplo de como crear un nuevo branch o rama y cargar datos paso a paso
+
+        git checkout -b feature-api-posts (git checkout -b : es el comando para crear esta nueva rama en local y feature-api-posts el nombre)
+
+        git add . (añade lo que estuvimoshaciendo)
+
+        git commit -m "load user and post from api" ( el git commit -m    es lo que utilizamos para agregar un commit)
+
+        git push -u origin feature-api.post ( git push -u origin    es lo que usamos para subir a la nube y feature-api-post la rama en la que estamos)
