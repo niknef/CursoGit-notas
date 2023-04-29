@@ -61,3 +61,34 @@ prueba nota
 
 VAMOS A HACER MERGE Y SQUASH
 
+
+git commit --amend cambia el titulo
+
+que hace el stash :
+
+      git stash
+            wip : workin progress
+            
+
+            podemos guardar unos cambios como un stash
+
+             y luego volver a verlos mas adelantes, sin importar que no esten en un commit
+
+
+             versiones de apps 2.0.0
+
+             el primer numero indica el numero de version 
+             el segundo actualizaciones que compilen en esa version
+             el tercero se utiliza para arreglar bugs y esas cosas
+
+             podemos hace git tag -a v0.1.0
+
+             y despues lo podemos subir aunque tambien se puede hacer desde github
+
+
+
+             USAR MARKDOWN 
+             Cuando subimos un issue podemos usar el mark down ¨¨ con las comillas para que lo muestre como si fuera el codigo que queremos mostrar.
+
+             gitignore
+                  donde podes adguntar los archivos que no hacen falta mostrar
